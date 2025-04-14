@@ -54,8 +54,7 @@ I'm Aniket Tarate, a passionate web developer from India, currently studying at 
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   <a href="https://www.hackerrank.com/profile/aniket_tarate">
-    <img src="https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=hackerearth&logoColor=white" />
-  </a>
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />  </a>
 </p>
 
 
