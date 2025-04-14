@@ -47,10 +47,10 @@ I'm Aniket Tarate, a passionate web developer from India, currently studying at 
   <a href="mailto: aniket0150@gmail.com.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/yourusername/">
+  <a href="https://www.instagram.com/aniket_tarate_04/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/yourusername/">
+  <a href="https://leetcode.com/u/Aniket0150/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   <a href="https://www.hackerrank.com/profile/aniket_tarate">
