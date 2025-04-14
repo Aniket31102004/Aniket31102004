@@ -41,7 +41,7 @@ I'm Aniket Tarate, a passionate web developer from India, currently studying at 
 ### Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/aniket-tarate"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/aniket-tarate-11b797265?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="mailto:anikettarate@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
