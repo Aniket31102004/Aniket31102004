@@ -29,7 +29,34 @@ I'm Aniket Tarate, a passionate web developer from India, currently studying at 
 
 ---
 
-### GitHub Stats
+### 📁 Projects
+
+#### 🔧 HOUSEHOLD SERVICES WEB APPLICATION
+> **Tech Stack**: Python (Flask), Jinja2, SQLite, Bootstrap  
+- Multi-user platform with **role-based access control**  
+- Interactive dashboard, secure service request management  
+- Fully **mobile-responsive UI**  
+- **Learning**: Full-stack development, database security, UI/UX design
+
+---
+
+#### ✅ [TO-DO LIST WEB APP](https://flask-todo-app-2xid.onrender.com/) 
+> **Tech Stack**: HTML, CSS, JavaScript  
+- Feature-rich: add, delete, and mark-as-done  
+- Used `localStorage` to persist tasks across sessions  
+- Built with **DOM manipulation** and **event handling** for a dynamic UI  
+
+---
+
+#### 🛒 SMART CART SYSTEM (IoT + Software)  
+> **Tech Stack**: Python, Raspberry Pi, Barcode Scanner, Weight Sensor  
+- Built a smart shopping cart with **real-time billing**  
+- Integrated **QR code payment** and **theft detection**  
+- Focused on **retail automation** and **checkout optimization**
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aniket-tarate&show_icons=true&theme=tokyonight" height="150" />
@@ -44,7 +71,7 @@ I'm Aniket Tarate, a passionate web developer from India, currently studying at 
   <a href="https://www.linkedin.com/in/aniket-tarate-11b797265?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto: aniket0150@gmail.com.com">
+  <a href="mailto:aniket0150@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/aniket_tarate_04/">
@@ -54,12 +81,10 @@ I'm Aniket Tarate, a passionate web developer from India, currently studying at 
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   <a href="https://www.hackerrank.com/profile/aniket_tarate">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />  </a>
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
 </p>
-
-
 
 ---
 
 > *"Strive for progress, not perfection."*
-
